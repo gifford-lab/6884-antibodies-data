@@ -1,0 +1,2 @@
+/data/CV0/data.test.h5.batch1
+/data/CV0/data.test.h5.batch2
